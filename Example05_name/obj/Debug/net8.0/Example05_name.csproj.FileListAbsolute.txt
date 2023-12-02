@@ -1,0 +1,15 @@
+C:\Users\polya\OneDrive\Рабочий стол\Examples\Example05_name\bin\Debug\net8.0\Example05_name.exe
+C:\Users\polya\OneDrive\Рабочий стол\Examples\Example05_name\bin\Debug\net8.0\Example05_name.deps.json
+C:\Users\polya\OneDrive\Рабочий стол\Examples\Example05_name\bin\Debug\net8.0\Example05_name.runtimeconfig.json
+C:\Users\polya\OneDrive\Рабочий стол\Examples\Example05_name\bin\Debug\net8.0\Example05_name.dll
+C:\Users\polya\OneDrive\Рабочий стол\Examples\Example05_name\bin\Debug\net8.0\Example05_name.pdb
+C:\Users\polya\OneDrive\Рабочий стол\Examples\Example05_name\obj\Debug\net8.0\Example05_name.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\polya\OneDrive\Рабочий стол\Examples\Example05_name\obj\Debug\net8.0\Example05_name.AssemblyInfoInputs.cache
+C:\Users\polya\OneDrive\Рабочий стол\Examples\Example05_name\obj\Debug\net8.0\Example05_name.AssemblyInfo.cs
+C:\Users\polya\OneDrive\Рабочий стол\Examples\Example05_name\obj\Debug\net8.0\Example05_name.csproj.CoreCompileInputs.cache
+C:\Users\polya\OneDrive\Рабочий стол\Examples\Example05_name\obj\Debug\net8.0\Example05_name.sourcelink.json
+C:\Users\polya\OneDrive\Рабочий стол\Examples\Example05_name\obj\Debug\net8.0\Example05_name.dll
+C:\Users\polya\OneDrive\Рабочий стол\Examples\Example05_name\obj\Debug\net8.0\refint\Example05_name.dll
+C:\Users\polya\OneDrive\Рабочий стол\Examples\Example05_name\obj\Debug\net8.0\Example05_name.pdb
+C:\Users\polya\OneDrive\Рабочий стол\Examples\Example05_name\obj\Debug\net8.0\Example05_name.genruntimeconfig.cache
+C:\Users\polya\OneDrive\Рабочий стол\Examples\Example05_name\obj\Debug\net8.0\ref\Example05_name.dll
