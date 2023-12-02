@@ -1,0 +1,15 @@
+C:\Users\polya\OneDrive\Рабочий стол\Examples\Example3_Sum\bin\Debug\net8.0\Example3_Sum.exe
+C:\Users\polya\OneDrive\Рабочий стол\Examples\Example3_Sum\bin\Debug\net8.0\Example3_Sum.deps.json
+C:\Users\polya\OneDrive\Рабочий стол\Examples\Example3_Sum\bin\Debug\net8.0\Example3_Sum.runtimeconfig.json
+C:\Users\polya\OneDrive\Рабочий стол\Examples\Example3_Sum\bin\Debug\net8.0\Example3_Sum.dll
+C:\Users\polya\OneDrive\Рабочий стол\Examples\Example3_Sum\bin\Debug\net8.0\Example3_Sum.pdb
+C:\Users\polya\OneDrive\Рабочий стол\Examples\Example3_Sum\obj\Debug\net8.0\Example3_Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\polya\OneDrive\Рабочий стол\Examples\Example3_Sum\obj\Debug\net8.0\Example3_Sum.AssemblyInfoInputs.cache
+C:\Users\polya\OneDrive\Рабочий стол\Examples\Example3_Sum\obj\Debug\net8.0\Example3_Sum.AssemblyInfo.cs
+C:\Users\polya\OneDrive\Рабочий стол\Examples\Example3_Sum\obj\Debug\net8.0\Example3_Sum.csproj.CoreCompileInputs.cache
+C:\Users\polya\OneDrive\Рабочий стол\Examples\Example3_Sum\obj\Debug\net8.0\Example3_Sum.sourcelink.json
+C:\Users\polya\OneDrive\Рабочий стол\Examples\Example3_Sum\obj\Debug\net8.0\Example3_Sum.dll
+C:\Users\polya\OneDrive\Рабочий стол\Examples\Example3_Sum\obj\Debug\net8.0\refint\Example3_Sum.dll
+C:\Users\polya\OneDrive\Рабочий стол\Examples\Example3_Sum\obj\Debug\net8.0\Example3_Sum.pdb
+C:\Users\polya\OneDrive\Рабочий стол\Examples\Example3_Sum\obj\Debug\net8.0\Example3_Sum.genruntimeconfig.cache
+C:\Users\polya\OneDrive\Рабочий стол\Examples\Example3_Sum\obj\Debug\net8.0\ref\Example3_Sum.dll
